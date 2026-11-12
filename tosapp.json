@@ -73,7 +73,7 @@
   "github_repo": "sickchill",
   "upstream_version": "2023.6.27",
   "release_tag_prefix": "v",
-  "version": "2023.6.27-1",
+  "version": "2023.6.27-2",
   "help": "https://github.com/Moechz/sickchill/issues",
   "official": "https://github.com/SickChill/SickChill",
   "license": "GPL-3.0",
